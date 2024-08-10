@@ -1,0 +1,9 @@
+{
+  "name": "aws-lamda-serverless",
+  "version": "1.0.0",
+  "description": "deploy-env-serverless",
+  "main": "index.ts",
+  "repository": "https://github.com/google-home-project/serverless-aws-lambda.git",
+  "author": "Eithan | Nguyen The Loc",
+  "license": "MIT"
+}
